@@ -1,4 +1,4 @@
-# Link Safety Intelligence
+# Link Safety 
 
 **Read the link before you trust it.**
 
